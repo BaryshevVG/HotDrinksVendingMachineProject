@@ -1,0 +1,10 @@
+# Игнорируем папку сборки и зависимости
+/bin/
+/out/
+*.class
+*.log
+*.iml
+/.idea/
+/target/
+/.gradle/
+/.mvn/
